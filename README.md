@@ -11,9 +11,9 @@
 
 如果还需要下载 App、给账户充值，或购买 AI 月卡，文末也留了对应的商品入口。
 
-## 一、多地区线路与长期套餐：[V2free——直达链接](https://w1.soxo.top/auth/register?code=QKu7)
+## 一、多地区线路与长期套餐：[V2free——直达链接](https://w1.soxo.top/auth/register?code=QKu7) &ensp; [备用链接1](https://w2.xmoney.top/auth/register?code=QKu7#tt) &ensp; [备用链接2](https://w1.xmoney.top/auth/register?code=QKu7#tt)  &ensp; [备用链接3](https://cdn.xmoney.top/auth/register?code=QKu7#tt) 
 
-### 1.1 节点和线路
+### 1.1 节点和线路 
 
 喜欢自己挑线路，可以从 V2free 看起。同一个地区往往有多个入口，协议、流量倍率和用途也各有区别。
 
